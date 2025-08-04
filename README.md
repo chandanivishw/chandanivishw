@@ -58,7 +58,7 @@ A tech enthusiast currently pursuing **B.Tech in Computer Science** from Glocal 
 
 * 🔗 [GitHub](https://github.com/chandanivishw)
 * 🔗 [LinkedIn](https://www.linkedin.com/in/chandani-vishwakarma-650b34257)
-* 📧 [chandanivishw@gmail.com](mailto:chandanivishw@gmail.com)
+* 📧 [chandanivishw@gmail.com](mailto:vishwakarmachandani400@gmail.com)
 
 ---
 
