@@ -71,8 +71,7 @@ A tech enthusiast currently pursuing **B.Tech in Computer Science** from Glocal 
 
 ### ⚡ Fun Fact
 
- I believe in continuous learning, and I’m always curious about how things work under the hood! ✨
- 
+ I believe in continuous learning, and I’m always curious about how things work under the hood! ✨ 
  Thanks for visiting my GitHub profile! Feel free to reach out for collaborations or tech discussions.
  
 
