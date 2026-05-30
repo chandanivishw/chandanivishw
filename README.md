@@ -47,7 +47,7 @@ I am a B.Tech Computer Science student at Glocal University with a strong intere
 
 * 🛍️ **E-Commerce Website** – Developed using HTML & CSS with responsive design
 * 🎮 **Quiz App** – Interactive quiz application using JavaScript
-* 📚 **E-Learning Website** – MERN Stack project *(in progress)*
+* 📚 **E-Learning Website** – MERN Stack project
 * 🌐 **Portfolio Website** – Personal portfolio showcasing projects
 
 ---
