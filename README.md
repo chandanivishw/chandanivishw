@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Chandani Vishwakarma
 
-### 🚀 Aspiring Full Stack Developer | Passionate Learner | India 🇮🇳
+🚀 Aspiring Full Stack Developer | Passionate Learner | India 🇮🇳
 
 I am a B.Tech Computer Science student at Glocal University with a strong interest in web development. I enjoy building clean, responsive, and user-friendly applications while continuously improving my skills in both frontend and backend technologies.
 
