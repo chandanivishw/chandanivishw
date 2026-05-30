@@ -1,78 +1,67 @@
----
 ## 👋 Hi there, I'm Chandani Vishwakarma
 
-### 🚀 Full Stack Developer | Passionate Coder | India 🇮🇳
+### 🚀 Aspiring Full Stack Developer | Passionate Learner | India 🇮🇳
 
-A tech enthusiast currently pursuing **B.Tech in Computer Science** from Glocal University. I enjoy crafting clean, responsive, and user-centric applications that solve real-world problems. I specialize in front-end technologies with growing backend exposure and always seek opportunities to learn and build.
+I am a B.Tech Computer Science student at Glocal University with a strong interest in web development. I enjoy building clean, responsive, and user-friendly applications while continuously improving my skills in both frontend and backend technologies.
 
 ---
 
 ### 🔥 About Me
 
 * 🎓 B.Tech CSE Student at Glocal University
-* 💻 Passionate about Full Stack Web Development
-* 📚 Strong foundation in HTML, CSS, JavaScript, and Bootstrap
-* ⚙️ Building cool web apps and personal projects
-* 🌱 Currently learning React.js and backend tools like Node.js
-* 🎯 Goal: To become an excellent Full Stack Developer and contribute to meaningful tech solutions
+* 💻 Interested in Full Stack Web Development
+* 🌱 Currently learning React.js, Node.js, and Express.js
+* ⚙️ Building projects to strengthen practical skills
+* 🎯 Goal: To become a skilled Full Stack Developer and contribute to real-world projects
 
 ---
 
 ### 🛠️ Skills & Tools
 
-#### 🧩 **Frontend**
+#### 🧩 Frontend
 
 * HTML5, CSS3, JavaScript
-* Bootstrap, TailwindCSS
+* Bootstrap, Tailwind CSS
 * React.js (Learning)
 
-#### 🖥️ **Backend**
+#### 🖥️ Backend
 
 * Node.js (Learning), Express.js (Beginner)
-* Java (Basic), JavaScript (Basic)
+* JavaScript (Basic), Java (Basic)
 * C, C++, Python (Basic)
 
-#### 🛠️ **Tools & Platforms**
+#### 🛠️ Tools
 
 * Git & GitHub
 * VS Code
 
-#### 🤝 **Soft Skills**
+#### 🤝 Soft Skills
 
-* Problem-solving
-* Team collaboration
-* Time management
+* Problem Solving
+* Team Collaboration
+* Time Management
 
 ---
 
 ### 💼 Projects
 
-* 🛍️ **E-Commerce Website** – HTML/CSS based shopping site
-* 🎮 **Quiz App** – Interactive JavaScript-based quiz
-* 📚 **E-Learning Website** – Built using MERN Stack *(in progress)*
-* 🌐 **Portfolio Website** – This very portfolio you’re viewing now!
+* 🛍️ **E-Commerce Website** – Developed using HTML & CSS with responsive design
+* 🎮 **Quiz App** – Interactive quiz application using JavaScript
+* 📚 **E-Learning Website** – MERN Stack project *(in progress)*
+* 🌐 **Portfolio Website** – Personal portfolio showcasing projects
 
 ---
 
-### 📬 Let's Connect
+### 📬 Connect With Me
 
-* 🔗 [GitHub](https://github.com/chandanivishw)
-* 🔗 [LinkedIn](https://www.linkedin.com/in/chandani-vishwakarma-650b34257)
-* 📧 [chandanivishw@gmail.com](mailto:vishwakarmachandani400@gmail.com)
-
----
-
-### 📈 GitHub Stats
-
-![Chandani's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandanivishw\&show_icons=true\&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandanivishw\&layout=compact\&theme=radical)
+* 🔗 GitHub: https://github.com/chandanivishw
+* 🔗 LinkedIn: https://www.linkedin.com/in/chandani-vishwakarma-650b34257
+* 📧 Email: [vishwakarmachandani400@gmail.com](mailto:vishwakarmachandani400@gmail.com)
 
 ---
 
 ### ⚡ Fun Fact
 
- I believe in continuous learning, and I’m always curious about how things work under the hood! ✨ 
- Thanks for visiting my GitHub profile! Feel free to reach out for collaborations or tech discussions.
- 
+I enjoy learning new technologies and understanding how things work behind the scenes. I believe in continuous learning and improving every day.
 
-
+Thanks for visiting my profile! 😊
